@@ -1,0 +1,16 @@
+body{
+	background-color: red;
+}
+
+h1{
+	background-color: black;
+	font-size: 20px;
+	color:blue;
+	width: 20%;
+	height: 10%;
+	margin: 0 auto;
+}
+
+p{
+	background-color: green;
+}
