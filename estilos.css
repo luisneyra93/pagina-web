@@ -10,3 +10,7 @@ h1{
 	height: 10%;
 	margin: 0 auto;
 }
+
+p{
+	background-color: green;
+}
